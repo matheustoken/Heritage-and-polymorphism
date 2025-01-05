@@ -41,6 +41,11 @@ You have been hired to create a system for an **online learning platform**. Your
 
 ## Example Output:
 
+![image](https://github.com/user-attachments/assets/6f927ac5-ee26-49bd-8eef-c9c178a128a5)
+![image](https://github.com/user-attachments/assets/339d6642-31c3-4b57-9cf5-70d025e3e90e)
+
+
+
 
 ### Class Structure:
 - **Lesson Class**: Base class with an abstract `duration()` method.
