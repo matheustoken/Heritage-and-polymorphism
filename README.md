@@ -49,7 +49,7 @@ You have been hired to create a system for an **online learning platform**. Your
 
 ## Technologies Used:
 - **Heritage**.
-- **polymorphism**
+- **polymorphism**.
 
 ## Actor:
 Matheus Accorsi
